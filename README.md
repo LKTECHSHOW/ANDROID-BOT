@@ -17,7 +17,7 @@
 >pkg install nano
 
 >pkg install php
->git clone https://github.com/RazorKenway/SL-Android-Bot.git
+>git clone https://github.com/LKTECHSHOW/ANDROID-BOT.git
 
 >cd SL-Android-Bot
 
